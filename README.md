@@ -1,4 +1,4 @@
-# University Connect Bot
+# University Connect Bot (dbucouple_bot)
 
 A professional Tinder-style Telegram bot for connecting university students - built with Python and python-telegram-bot.
 
@@ -16,16 +16,7 @@ A professional Tinder-style Telegram bot for connecting university students - bu
 - ✅ **Auto Backups** - Automatic database backups
 - ✅ **Health Monitoring** - Bot health checks
 - ✅ **Professional Architecture** - Clean, modular, scalable code
-
-## Features
-
-- 🔐 **User Registration** - Easy profile creation with validation
-- 🔍 **Browse Profiles** - Swipe through student profiles
-- ❤️ **Like & Match** - Like profiles and get matched
-- 📱 **Menu Navigation** - Intuitive button-based interface
-- 📊 **Database Management** - SQLite with proper indexing
-- 📝 **Logging** - Comprehensive logging system
-- 🛡️ **Error Handling** - Robust error handling throughout
+- 📱 **Menu Navigation** - Intuitive button-based interface with inline menu support
 
 ## Project Structure
 
